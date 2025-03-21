@@ -12,26 +12,42 @@ redirect_from:
 
 I am an Assistant Professor in [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Prior to that, I received my PhD degree in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) at [Hong Kong University of Science and Technology](http://www.ust.hk), advised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn).
 
-My research interests cover the broad area of cloud computing and distributed systems, with a special focus on ***serverless computing***, ***big data and machine learning systems***. I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use. Some of our recent research projects include:
+### Research Interests
 
-- Scalable ML/LLM serving: [CaraServe](https://arxiv.org/abs/2401.11240), [FaaSwap](https://arxiv.org/abs/2306.03622), [Gillis](../files/gillis-icdcs21.pdf) (ICDCS'21), [MArk](../files/mark-atc19.pdf) (ATC'19)
-- Usable, efficient serverless computing : [Pheromone](../files/pheromone-nsdi23.pdf) (NSDI'23)
-- Big data analytics and caching: [CrystalPerf](../files/crystalperf-atc21.pdf) (ATC'21), [RepBun](../files/repbun-infocom20.pdf) (INFOCOM'20)
+My research interests cover the broad area of cloud computing and distributed systems, with a special focus on serverless computing, big data and machine learning systems. Some of our recent research projects include:
+<!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-<!-- My current research focuses on building **next-generation serverless computing platforms** that are usable and generally applicable, and developing efficient and scalable **big data and machine learning systems** in the cloud. -->
+- **Scalable ML and LLM inference systems**
+- **Intelligent cluster management on heterogeneous resources** 
+- **Usable and efficient serverless computing platforms**
+
+<!-- - Big data analytics and caching: [CrystalPerf](../files/crystalperf-atc21.pdf) (ATC'21), [RepBun](../files/repbun-infocom20.pdf) (INFOCOM'20) -->
 
 
+### Prospective Students and Current Openings
 
-I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***) and research assistants (RAs) to work on the areas of distributed ML and big data systems, next-generation serverless computing platforms, and large-scale cluster management systems. If you are interested in working with me, please feel free to drop me an email along with your CV and transcripts. 
+I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***) and research assistants (RAs) to work with me on the above topics. Please refer to the details [here](https://mincyu.github.io/joinus). 
 
+### Recent/Selected Publications
+
+- "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922.
+- "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking, 2024.
+- "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in USENIX NSDI 2023.
+- "Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning," in IEEE ICDCS 2021. **(Best Paper Runner Up)** 
+- "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving," in USENIX ATC 2019.
 
 <!-- [**Curriculum vitae**](./files/CV_Minchen.pdf). -->
 
-## News
+### News
 
-- 2024.10: One paper accepted to TON.
-- 2024.09: Serve on the PC of [ICDCS'25](https://icdcs2025.icdcs.org). Please consider submitting.
-- 2024.07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!
-- 2024.04: Serve on the PC of [NSDI'25](https://www.usenix.org/conference/nsdi25). Please consider submitting.
-- 2023.12: I joined CUHK-SZ as an Assistant Professor.
+- 2024/10: One paper accepted to TON.
+- 2024/09: Serving on the PC of [ICDCS'25](https://icdcs2025.icdcs.org). Please consider submitting.
+- 2024/07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!
+- 2024/04: Serving on the PC of [NSDI'25](https://www.usenix.org/conference/nsdi25). Please consider submitting.
+- 2023/12: I joined CUHK-SZ as an Assistant Professor.
 
+### Useful Links
+
+- [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf), by Prof. David Patterson
+- [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), by Prof. Srinivasan Keshav
+- [Systems Benchmarking Crimes](https://gernot-heiser.org/benchmarking-crimes.html), by Prof. Gernot Heiser
