@@ -12,7 +12,7 @@ I am always looking for students with strong motivation to work on computer syst
 **[2025/03]** 1-2 openings for PhD/MPhil students starting 2025 Fall. What I look for in candidates:
 - Major in Computer Science, Software Engineering, Artifical Intelligence, or other related fields at high-level universities (e.g., 985/211)
 - Good academic performance and solid foundation in programming
-- Prior experiences in research, competitions, or open-source projects is highly valued
+- Prior experiences in research, competitions, or open-source projects is highly valued (a plus but not required)
 
 Our research group has established long-term collaborations with leading industry partners (e.g., Huawei, Alibaba, etc). As a graduate student, you will have the opportunity to: 
 - Collaborate with industry experts and gain access to cutting-edge resources
