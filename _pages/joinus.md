@@ -23,7 +23,7 @@ Our research group has established long-term collaborations with leading industr
 
 **[2025/03]** multiple RA openings for research projects on serverless computing and machine learning systems. The requirements for RA candidates include:
 - Strong programming and system building skills
-- Availability for a 3+ months on-site internship at CUHK-Shenzhen.
+- Availability for a 3+ months on-site internship at CUHK-Shenzhen
 
 RAs will work closely with other group members on cutting-edge research projects and contribute to papers targeting top-tier venues.
 
