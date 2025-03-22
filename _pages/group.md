@@ -8,12 +8,12 @@ author_profile: true
 
 ### Graduate Students under My Supervision
 
-### Ph.D. Students
+**Ph.D. Students**
 
 - Ye Wang: 2024-Present
     - B.S. from Huazhong University of Science and Technology
 
-### External Co-supervision
+**External Co-supervision**
 
 - Kaiyu Huang: 2024-Present
     - Ph.D. student at Tongji University, co-supervised with Prof. Qingjiang Shi

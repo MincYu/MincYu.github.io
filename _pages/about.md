@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- ## About me -->
 
-I am an Assistant Professor in [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Prior to that, I received my PhD degree in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) at [Hong Kong University of Science and Technology](http://www.ust.hk), advised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn).
+I am an Assistant Professor in [School of Data Science, The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/en). Prior to that, I received my PhD degree from [Hong Kong University of Science and Technology](http://www.ust.hk), where I was advised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn).
 
 ### Research Interests
 
-My research interests cover the broad area of cloud computing and distributed systems, with a special focus on serverless computing, big data and machine learning systems. Some of our recent research projects include:
+My research interests cover the broad area of cloud computing and distributed systems, with a special focus on serverless computing, big data and machine learning systems. Our current research projects include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
 - **Scalable ML and LLM inference systems**
@@ -26,7 +26,7 @@ My research interests cover the broad area of cloud computing and distributed sy
 
 ### Prospective Students and Current Openings
 
-I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***) and research assistants (RAs) to work with me on the above topics. Please refer to the details [here](https://mincyu.github.io/joinus). 
+I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***) and research assistants (RAs) to work with me on the above topics. Please see [here](https://mincyu.github.io/joinus) for the details. 
 
 ### Recent/Selected Publications
 
@@ -36,7 +36,6 @@ I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***
 - "Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning," in IEEE ICDCS 2021. **(Best Paper Runner Up)** 
 - "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving," in USENIX ATC 2019.
 
-<!-- [**Curriculum vitae**](./files/CV_Minchen.pdf). -->
 
 ### News
 
