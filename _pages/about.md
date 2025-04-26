@@ -31,6 +31,7 @@ I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***
 ### Recent/Selected Publications
 
 - "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922.
+- "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX ATC 2025.
 - "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX ATC 2025.
 - "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking, 2024.
 - "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in USENIX NSDI 2023.
