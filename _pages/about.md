@@ -26,7 +26,7 @@ My research interests cover the broad area of cloud computing and distributed sy
 
 ### Prospective Students and Current Openings
 
-I am looking for self-motivated graduate students (***PhD/MPhil starting 2025***) and research assistants (RAs) to work with me on the above topics. Please see [here](https://mincyu.github.io/joinus) for the details. 
+I am looking for self-motivated graduate students and research assistants (RAs) to work with me on the above topics. Please see [here](https://mincyu.github.io/joinus) for the details. 
 
 ### Recent/Selected Publications
 
