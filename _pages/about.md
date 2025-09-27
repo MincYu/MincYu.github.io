@@ -42,6 +42,7 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### News
 
+- 2025/09: AdaSpec accepted to SoCC'25.
 - 2025/08: GRouter accepted to EuroSys'26.
 - 2025/04: Torpor and Toppings accepted to ATC'25.
 - 2024/10: One paper accepted to TON.

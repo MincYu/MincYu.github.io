@@ -8,7 +8,7 @@ author_profile: true
 ### Recent Preprints
 
 - Minchen Yu, Yinghao Ren, Jiamu Zhao, Jiaqi Li, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929.
-- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096.
+<!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
 - Minchen Yu, Rui Yang, Chaobo Jia, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922.
 <!-- - Hao Wu, Junxiao Deng, Minchen Yu, Yue Yu, Yaochen Liu, Hao Fan, Song Wu, Wei Wang, "FaaSTube: Optimizing GPU-oriented Data Transfer for Serverless Computing," in arXiv preprint arXiv:2411.01830. -->
 <!-- - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "CaraServe: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference," in arXiv preprint arXiv:2401.11240. -->
@@ -17,7 +17,7 @@ author_profile: true
 
 ### Refereed Papers
 
-
+- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Qingjiang Shi, Minchen Yu, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
 - Hao Wu, Yaochen Liu, Minchen Yu, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.
 - Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.[[code](https://github.com/FCSLab/torpor)]
