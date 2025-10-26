@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+$*​$ indicates (co-)corresponding authorship.
+
 ### Recent Preprints
 
 - Minchen Yu, Yinghao Ren, Jiamu Zhao, Jiaqi Li, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929.
@@ -17,10 +19,10 @@ author_profile: true
 
 ### Refereed Papers
 
-- Hao Wu, Yaochen Liu, Minchen Yu, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
-- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Qingjiang Shi, Minchen Yu, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
+- Hao Wu, Yaochen Liu, Minchen Yu$*$, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
+- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu$*$, Qingjiang Shi, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.
-- Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.[[code](https://github.com/FCSLab/torpor)]
+- Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding, "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.[[code](https://github.com/FCSLab/torpor)]
 - Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking (***TON***), 2024.
 - Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in the Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (***NSDI’23***), Boston, MA, April 2023. [[code](https://github.com/MincYu/pheromone)]
 - Minchen Yu, Zhifeng Jiang, Hok Chun Ng, Wei Wang, Ruichuan Chen, and Bo Li, ''Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning,'' in the Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (***ICDCS'21***), Virtual Conference, July 2021. **(Best Paper Runner Up)**  [[code](https://github.com/MincYu/gillis-open-source)]
