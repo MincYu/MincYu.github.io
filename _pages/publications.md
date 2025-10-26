@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-$*​$ indicates (co-)corresponding authorship.
+$*$ indicates (co-)corresponding authorship.
 
 ### Recent Preprints
 
@@ -19,8 +19,8 @@ $*​$ indicates (co-)corresponding authorship.
 
 ### Refereed Papers
 
-- Hao Wu, Yaochen Liu, Minchen Yu$*$, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
-- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu$*$, Qingjiang Shi, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
+- Hao Wu, Yaochen Liu, Minchen Yu*, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
+- Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu*, Qingjiang Shi, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.
 - Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding, "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX Annual Technical Conference (***ATC ’25***), Boston, MA, July 2025.[[code](https://github.com/FCSLab/torpor)]
 - Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking (***TON***), 2024.
