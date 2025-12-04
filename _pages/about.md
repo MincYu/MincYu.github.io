@@ -42,13 +42,15 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### News
 
+- 2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!
+- 2025/11: Give a Grand Challenges talk on AI Cloud at [FAISys'25](https://www.faisys.net/col.jsp?id=115).
 - 2025/09: AdaSpec accepted to SoCC'25.
 - 2025/08: GRouter accepted to EuroSys'26.
 - 2025/04: Torpor and Toppings accepted to ATC'25.
 - 2024/10: One paper accepted to TON.
-- 2024/09: Serving on the PC of [ICDCS'25](https://icdcs2025.icdcs.org). Please consider submitting.
+- 2024/09: Serve on the PC of [ICDCS'25](https://icdcs2025.icdcs.org). Please consider submitting.
 - 2024/07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!
-- 2024/04: Serving on the PC of [NSDI'25](https://www.usenix.org/conference/nsdi25). Please consider submitting.
+- 2024/04: Serve on the PC of [NSDI'25](https://www.usenix.org/conference/nsdi25). Please consider submitting.
 - 2023/12: I joined CUHK-SZ as an Assistant Professor.
 
 ### Useful Links
