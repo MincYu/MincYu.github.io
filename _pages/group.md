@@ -30,6 +30,9 @@ author_profile: true
 - Zhexiang Zhang: 2025-Present
     - PhD student at University of Melbourne, co-supervised with Prof. Adel Nadjaran Toosi and Prof. Xingliang Yuan
 
+<!-- - Yumiao Zhao: 2025-Present
+    - PhD student at SLAI, co-supervised with Prof. Zizhong Chen -->
+
 ### Research Interns
 ---
 
