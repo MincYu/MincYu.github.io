@@ -11,7 +11,7 @@ author_profile: true
 
 
 - <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, Xiangyu Wang, <u>Yumiao Zhao</u>, <u>Jingzhe Jiang</u>, Qizhen Weng, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
-<!-- - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929. -->
+- Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929.
 <!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
 - Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922.
   <!-- - Hao Wu, Junxiao Deng, Minchen Yu, Yue Yu, Yaochen Liu, Hao Fan, Song Wu, Wei Wang, "FaaSTube: Optimizing GPU-oriented Data Transfer for Serverless Computing," in arXiv preprint arXiv:2411.01830. -->
