@@ -14,12 +14,12 @@ I am an Assistant Professor in [School of Data Science, The Chinese University o
 
 ### Research Interests
 
-My research interests cover the broad area of cloud computing and distributed systems, with a special focus on serverless computing, big data and machine learning systems. Our current research projects include:
+My research interests cover the broad area of cloud computing and distributed systems. Our recent research projects include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-- **Scalable ML and LLM inference systems**
-- **Intelligent cluster management on heterogeneous resources** 
-- **Usable and efficient serverless computing platforms**
+- **Scalable AI and LLM systems**
+- **Large-scale cluster management and scheduling** 
+- **Next-generation serverless computing platforms**
 
 <!-- - Big data analytics and caching: [CrystalPerf](../files/crystalperf-atc21.pdf) (ATC'21), [RepBun](../files/repbun-infocom20.pdf) (INFOCOM'20) -->
 
