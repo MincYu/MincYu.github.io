@@ -21,7 +21,7 @@ author_profile: true
 
 ### Refereed Papers
 
-- Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in the 9th Annual Conference on Machine Learning and Systems (***MLSys'26***), Bellevue, WA, May 2026.
+- Minchen Yu\*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in the 9th Annual Conference on Machine Learning and Systems (***MLSys'26***), Bellevue, WA, May 2026.
 - <u>Hao Wu</u>, Yaochen Liu, Minchen Yu, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
 - Minchen Yu, Wei Wang, Yue Cheng, Hong Xu, "Cloud-Native Systems for Generative AI Applications: Current Trends and Open Challenges," *Grand Challenges paper* in the 1st Frontier AI Systems Workshop (***FAISys’25***), Hong Kong, November 2025.
 - <u>Kaiyu Huang</u>, <u>Hao Wu</u>, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
