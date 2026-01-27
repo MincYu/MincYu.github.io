@@ -30,11 +30,12 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### Recent/Selected Publications
 
+- "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in MLSys 2026.
 <!-- - "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922. -->
 - "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in EuroSys 2026.
-- "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX ATC 2025.
+<!-- - "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX ATC 2025. -->
 - "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX ATC 2025.
-- "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking, 2024.
+<!-- - "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking, 2024. -->
 - "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in USENIX NSDI 2023.
 - "Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning," in IEEE ICDCS 2021. **(Best Paper Runner Up)** 
 <!-- - "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving," in USENIX ATC 2019. -->
@@ -42,6 +43,8 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### News
 
+- 2026/01: FaaScale accepted to MLSys'26.
+- 2025/12: Serve on PC of [ICDCS'26](https://icdcs2026.icdcs.org) and [CCGrid'26](https://ccgrid2026.cdms.westernsydney.edu.au/).
 - 2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!
 - 2025/11: Give a Grand Challenges talk on AI Cloud at [FAISys'25](https://www.faisys.net/col.jsp?id=115).
 - 2025/09: AdaSpec accepted to SoCC'25.

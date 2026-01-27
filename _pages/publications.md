@@ -13,7 +13,7 @@ author_profile: true
 - <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, Xiangyu Wang, <u>Yumiao Zhao</u>, <u>Jingzhe Jiang</u>, Qizhen Weng, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
 - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929.
 <!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
-- Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922.
+<!-- - Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922. -->
   <!-- - Hao Wu, Junxiao Deng, Minchen Yu, Yue Yu, Yaochen Liu, Hao Fan, Song Wu, Wei Wang, "FaaSTube: Optimizing GPU-oriented Data Transfer for Serverless Computing," in arXiv preprint arXiv:2411.01830. -->
   <!-- - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "CaraServe: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference," in arXiv preprint arXiv:2401.11240. -->
   <!-- - Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, "FaaSwap: SLO-Aware, GPU-Eficient Serverless Inference via Model Swapping," in arXiv preprint arXiv:2306.03622. -->
@@ -21,6 +21,7 @@ author_profile: true
 
 ### Refereed Papers
 
+- Minchen Yu*, Rui Yang*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in the 9th Annual Conference on Machine Learning and Systems (***MLSys'26***), Bellevue, WA, May 2026.
 - <u>Hao Wu</u>, Yaochen Liu, Minchen Yu, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 
 - Minchen Yu, Wei Wang, Yue Cheng, Hong Xu, "Cloud-Native Systems for Generative AI Applications: Current Trends and Open Challenges," *Grand Challenges paper* in the 1st Frontier AI Systems Workshop (***FAISys’25***), Hong Kong, November 2025.
 - <u>Kaiyu Huang</u>, <u>Hao Wu</u>, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving," in the Proceedings of ACM Symposium on Cloud Computing (***SoCC'25***), Virtual Conference, November 2025.
