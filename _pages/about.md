@@ -43,6 +43,7 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### News
 
+- 2026/02: One paper accepted to ACM TACO.
 - 2026/01: FaaScale accepted to MLSys'26.
 - 2025/12: Serve on PC of [ICDCS'26](https://icdcs2026.icdcs.org) and [CCGrid'26](https://ccgrid2026.cdms.westernsydney.edu.au/).
 - 2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!
