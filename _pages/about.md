@@ -10,23 +10,21 @@ redirect_from:
 
 <!-- ## About me -->
 
-I am an Assistant Professor in [School of Data Science, The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/en). Prior to that, I received my PhD degree from [Hong Kong University of Science and Technology](http://www.ust.hk), where I was advised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Eng. degree in Software Engineering from [Nanjing University](https://www.nju.edu.cn).
+I am an Assistant Professor in [School of Data Science, The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/en). Prior to that, I received my PhD degree from [Hong Kong University of Science and Technology](http://www.ust.hk), where I was advised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Eng. degree from [Nanjing University](https://www.nju.edu.cn).
 
 ### Research Interests
 
 My research interests cover the broad area of cloud computing and distributed systems. Our recent research projects include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-- **Scalable AI and LLM systems**
+- **Scalable AI and Agentic systems**
 - **Large-scale cluster management and scheduling** 
 - **Next-generation serverless computing platforms**
-
-<!-- - Big data analytics and caching: [CrystalPerf](../files/crystalperf-atc21.pdf) (ATC'21), [RepBun](../files/repbun-infocom20.pdf) (INFOCOM'20) -->
 
 
 ### Prospective Students and Current Openings
 
-I am looking for self-motivated graduate students and research assistants (RAs) to work with me on the above topics. Please see [here](https://mincyu.github.io/joinus) for the details. 
+I am looking for self-motivated graduate students and research assistants (RAs) to work with me. Please see the [Group](https://mincyu.github.io/group) page for the latest openings and group information.
 
 ### Recent/Selected Publications
 
@@ -43,19 +41,31 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 
 ### News
 
-- 2026/02: One paper accepted to ACM TACO.
-- 2026/01: FaaScale accepted to MLSys'26.
-- 2025/12: Serve on PC of [ICDCS'26](https://icdcs2026.icdcs.org) and [CCGrid'26](https://ccgrid2026.cdms.westernsydney.edu.au/).
-- 2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!
-- 2025/11: Give a Grand Challenges talk on AI Cloud at [FAISys'25](https://www.faisys.net/col.jsp?id=115).
-- 2025/09: AdaSpec accepted to SoCC'25.
-- 2025/08: GRouter accepted to EuroSys'26.
-- 2025/04: Torpor and Toppings accepted to ATC'25.
-- 2024/10: One paper accepted to TON.
-- 2024/09: Serve on the PC of [ICDCS'25](https://icdcs2025.icdcs.org). Please consider submitting.
-- 2024/07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!
-- 2024/04: Serve on the PC of [NSDI'25](https://www.usenix.org/conference/nsdi25). Please consider submitting.
-- 2023/12: I joined CUHK-SZ as an Assistant Professor.
+<ul class="news-list">
+  <li>2026/02: One paper accepted to ACM TACO.</li>
+  <li>2026/01: FaaScale accepted to MLSys'26.</li>
+  <li>2025/12: Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</li>
+  <li>2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!</li>
+</ul>
+
+<div class="news-more">
+  <input id="news-more-toggle" class="news-more__toggle" type="checkbox">
+  <label for="news-more-toggle" class="news-more__label news-more__label--more">More...</label>
+  <div class="news-more__extra">
+    <ul class="news-list">
+      <li>2025/11: Give a Grand Challenges talk on AI Cloud at <a href="https://www.faisys.net/col.jsp?id=115">FAISys'25</a>.</li>
+      <li>2025/09: AdaSpec accepted to SoCC'25.</li>
+      <li>2025/08: GRouter accepted to EuroSys'26.</li>
+      <li>2025/04: Torpor and Toppings accepted to ATC'25.</li>
+      <li>2024/10: One paper accepted to TON.</li>
+      <li>2024/09: Serve on the PC of <a href="https://icdcs2025.icdcs.org">ICDCS'25</a>. Please consider submitting.</li>
+      <li>2024/07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!</li>
+      <li>2024/04: Serve on the PC of <a href="https://www.usenix.org/conference/nsdi25">NSDI'25</a>. Please consider submitting.</li>
+      <li>2023/12: I joined CUHK-SZ as an Assistant Professor.</li>
+    </ul>
+    <label for="news-more-toggle" class="news-more__label news-more__label--less">...Less</label>
+  </div>
+</div>
 
 ### Useful Links
 
