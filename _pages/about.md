@@ -17,9 +17,9 @@ I am an Assistant Professor in [School of Data Science, The Chinese University o
 My research interests cover the broad area of cloud computing and distributed systems. Our recent research projects include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-- **Scalable AI and Agentic systems**
-- **Large-scale cluster management and scheduling** 
-- **Next-generation serverless computing platforms**
+- Scalable AI and Agentic systems
+- Large-scale cluster management and scheduling
+- Next-generation serverless computing platforms
 
 
 ### Prospective Students and Current Openings

@@ -14,7 +14,7 @@ author_profile: true
 
 ### Teaching Assistant at HKUST
 
-- COMP 4651 Cloud Computing and Big Data Systems, Spring 2021 & Spring 2022
+- COMP 4651 Cloud Computing and Big Data Systems, Spring 2021/Spring 2022
 - COMP 3511 Operating System, Spring 2019
 
 
