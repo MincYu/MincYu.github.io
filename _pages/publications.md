@@ -10,7 +10,7 @@ author_profile: true
 ### Recent Preprints
 
 - <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, Xiangyu Wang, <u>Yumiao Zhao</u>, <u>Jingzhe Jiang</u>, Qizhen Weng, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
-- Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929.
+<!-- - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929. -->
 <!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
 <!-- - Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922. -->
   <!-- - Hao Wu, Junxiao Deng, Minchen Yu, Yue Yu, Yaochen Liu, Hao Fan, Song Wu, Wei Wang, "FaaSTube: Optimizing GPU-oriented Data Transfer for Serverless Computing," in arXiv preprint arXiv:2411.01830. -->
@@ -22,6 +22,9 @@ author_profile: true
 
 <div class="pub-year-divider pub-year-divider--first"><span>2026</span></div>
 
+- <u>Kaiyu Huang</u>, <u>Xingyu Wang</u>, Mingze Kong, Zhubo Shi, Yuqian Hou, Hong Xu, Zhongxiang Dai, Minchen Yu, Qingjiang Shi, "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling," in the 43rd International Conference on Machine Learning (***ICML'26***), Seoul, South Korea, July 2026.
+- <u>Wenhao Zou</u>, Zhijie Cai, Minchen Yu, Zongshuai Zhang, Guangxu Zhu, "Think in Cloud, Look at Edges: Semantic-Driven Query Decomposition for Efficient Video Reasoning," in the 43rd International Conference on Machine Learning (***ICML'26*** Spotlight), Seoul, South Korea, July 2026.
+- Kaiwen Chen, Xin Tan, Minchen Yu, Jingzong Li, Hong Xu, "ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing," in IEEE/ACM International Symposium on Quality of Service (***IWQoS'26***), Istanbul, Turkey, June 2026.
 - Minchen Yu, Ao Wang, <u>Bohui Wu</u>, <u>Yuxuan Liu</u>, Dong Chen, Haoxuan Yu, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding, "Enabling Low-Latency, GPU-Efficient Serverless Inference with Model Swapping," in ACM Transactions on Architecture and Code Optimization (***TACO***), 2026.
 - Minchen Yu\*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in the 9th Annual Conference on Machine Learning and Systems (***MLSys'26***), Bellevue, WA, May 2026.
 - <u>Hao Wu</u>, Yaochen Liu, Minchen Yu, Qizhen Weng, Junxiao Deng, Yue Yu, Hao Fan, Song Wu, Wei Wang, and Hai Jin, "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in ACM European Conference on Computer Systems (***EuroSys'26***), Edinburgh, UK, April 2026. 

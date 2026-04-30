@@ -42,6 +42,7 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 ### News
 
 <ul class="news-list">
+  <li>2026/04: UniScale and SCOPE accepted to ICML'26.</li>
   <li>2026/02: One paper accepted to ACM TACO.</li>
   <li>2026/01: FaaScale accepted to MLSys'26.</li>
   <li>2025/12: Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</li>
