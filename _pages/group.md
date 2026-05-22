@@ -21,7 +21,6 @@ If you are interested in joining our lab, please email me your CV, transcripts, 
 - Ye Wang (2024-Present): B.S. from Huazhong University of Science and Technology.
 - Jiamu Zhao (2025-Present): B.S. from University of Waterloo.
 - Yihao Zheng (2025-Present): B.S. from University of Electronic Science and Technology of China.
-- Xingyu Wang (2025-Present): B.S. from Zhejiang University.
 - Zhiyuan Tan (2026-Present): B.S. from Nankai University and M.S. from Chinese Academy of Sciences.
 - Yiyun Zheng (2026-Present): B.S. from Nanjing University.
 

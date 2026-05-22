@@ -22,7 +22,7 @@ author_profile: true
 
 <div class="pub-year-divider pub-year-divider--first"><span>2026</span></div>
 
-- <u>Kaiyu Huang</u>, <u>Xingyu Wang</u>, Mingze Kong, Zhubo Shi, Yuqian Hou, Hong Xu, Zhongxiang Dai, Minchen Yu, Qingjiang Shi, "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling," in the 43rd International Conference on Machine Learning (***ICML'26***), Seoul, South Korea, July 2026.
+- <u>Kaiyu Huang</u>, Xingyu Wang, Mingze Kong, Zhubo Shi, Yuqian Hou, Hong Xu, Zhongxiang Dai, Minchen Yu, Qingjiang Shi, "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling," in the 43rd International Conference on Machine Learning (***ICML'26***), Seoul, South Korea, July 2026.
 - <u>Wenhao Zou</u>, Zhijie Cai, Minchen Yu, Zongshuai Zhang, Guangxu Zhu, "Think in Cloud, Look at Edges: Semantic-Driven Query Decomposition for Efficient Video Reasoning," in the 43rd International Conference on Machine Learning (***ICML'26*** Spotlight), Seoul, South Korea, July 2026.
 - Kaiwen Chen, Xin Tan, Minchen Yu, Jingzong Li, Hong Xu, "ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing," in IEEE/ACM International Symposium on Quality of Service (***IWQoS'26***), Istanbul, Turkey, June 2026.
 - Minchen Yu, Ao Wang, <u>Bohui Wu</u>, <u>Yuxuan Liu</u>, Dong Chen, Haoxuan Yu, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding, "Enabling Low-Latency, GPU-Efficient Serverless Inference with Model Swapping," in ACM Transactions on Architecture and Code Optimization (***TACO***), 2026.
