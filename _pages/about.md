@@ -14,11 +14,11 @@ I am an Assistant Professor in [School of Data Science, The Chinese University o
 
 ### Research Interests
 
-My research interests cover the broad area of cloud computing and distributed systems. Our recent research projects include:
+My research interests cover the broad area of cloud computing and distributed systems. Our recent research topics include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-- Scalable AI and Agentic systems
-- Large-scale cluster management and scheduling
+- Scalable AI and agentic systems
+- Large-scale GPU cluster management and scheduling
 - Next-generation serverless computing platforms
 
 
@@ -26,17 +26,23 @@ My research interests cover the broad area of cloud computing and distributed sy
 
 I am looking for self-motivated graduate students and research assistants (RAs) to work with me. Please see the [Group](https://mincyu.github.io/group) page for the latest openings and group information.
 
-### Recent/Selected Publications
+<!-- ### Recent/Selected Publications
 
 - "FaaScale: Unlocking Fast LLM Scaling for Serverless Inference," in MLSys 2026.
-<!-- - "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922. -->
 - "Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach," in EuroSys 2026.
-<!-- - "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX ATC 2025. -->
 - "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX ATC 2025.
-<!-- - "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking, 2024. -->
 - "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in USENIX NSDI 2023.
 - "Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning," in IEEE ICDCS 2021. **(Best Paper Runner Up)** 
-<!-- - "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving," in USENIX ATC 2019. -->
+- "MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving," in USENIX ATC 2019. -->
+
+### Current Membership of Program Committee
+
+- IEEE ICDCS 2026
+- IEEE/ACM CCGrid 2026
+- IEEE HiPC 2026
+- ChinaSys 2026
+- FAISys 2026
+- CCF HPC China 2026
 
 
 ### News

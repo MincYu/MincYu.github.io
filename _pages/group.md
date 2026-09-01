@@ -23,12 +23,16 @@ If you are interested in joining our lab, please email me your CV, transcripts, 
 - Yihao Zheng (2025-Present): B.S. from University of Electronic Science and Technology of China.
 - Zhiyuan Tan (2026-Present): B.S. from Nankai University and M.S. from Chinese Academy of Sciences.
 - Yiyun Zheng (2026-Present): B.S. from Nanjing University.
+- Yiting Li (2026-Present): B.S. and M.S. from Harbin Institute of Technology, Shenzhen.
 
 <div class="pub-year-divider pub-year-divider--first"><span>Master Students</span></div>
 
 - Bohui Wu, M.Sc. student (2025-Present)
 - Junyuan Deng, M.Sc. student (2025-Present)
 - Angyang Gu, M.Sc. student (2025-Present)
+- Jingzhe Jiang, M.Phil. student (2026-Present)
+- Yicheng Huo, M.Sc. student (2026-Present)
+- Yaohua Xi, M.Sc. student (2026-Present)
 
 <div class="pub-year-divider pub-year-divider--first"><span>Co-supervised Students outside CUHK-SZ</span></div>
 
