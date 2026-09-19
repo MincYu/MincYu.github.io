@@ -9,6 +9,8 @@ author_profile: true
 
 ### Recent Preprints
 
+
+- Minchen Yu, "Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model," vision paper in arXiv preprint arXiv:2608.29581.
 - <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, Xiangyu Wang, <u>Yumiao Zhao</u>, <u>Jingzhe Jiang</u>, Qizhen Weng, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
 <!-- - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929. -->
 <!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
@@ -22,6 +24,7 @@ author_profile: true
 
 <div class="pub-year-divider pub-year-divider--first"><span>2026</span></div>
 
+- <u>Yiyun Zheng</u>, Lingyun Yang, Yinghao Yu, Guodong Yang, Liping Zhang, Minchen Yu, "Model-as-a-Service in the Wild: Characterizing Production LLM Inference Clusters at Scale," in 2026 ACM SIGOPS Annual Technical Conference (***ATC’26***), Hong Kong, November 2026.
 - <u>Kaiyu Huang</u>, Xingyu Wang, Mingze Kong, Zhubo Shi, Yuqian Hou, Hong Xu, Zhongxiang Dai, Minchen Yu, Qingjiang Shi, "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling," in the 43rd International Conference on Machine Learning (***ICML'26***), Seoul, South Korea, July 2026.
 - <u>Wenhao Zou</u>, Zhijie Cai, Minchen Yu, Zongshuai Zhang, Guangxu Zhu, "Think in Cloud, Look at Edges: Semantic-Driven Query Decomposition for Efficient Video Reasoning," in the 43rd International Conference on Machine Learning (***ICML'26*** Spotlight), Seoul, South Korea, July 2026.
 - Kaiwen Chen, Xin Tan, Minchen Yu, Jingzong Li, Hong Xu, "ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing," in IEEE/ACM International Symposium on Quality of Service (***IWQoS'26***), Istanbul, Turkey, June 2026.

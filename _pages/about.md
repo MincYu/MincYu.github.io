@@ -40,6 +40,7 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 - IEEE ICDCS 2026
 - IEEE/ACM CCGrid 2026
 - IEEE HiPC 2026
+- IEEE ISPA 2026 (Program Vice-Chair)
 - ChinaSys 2026
 - FAISys 2026
 - CCF HPC China 2026
@@ -48,11 +49,10 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 ### News
 
 <ul class="news-list">
+  <li>2026/09: One paper accepted to ATC'26.</li>
   <li>2026/04: UniScale and SCOPE accepted to ICML'26.</li>
   <li>2026/02: One paper accepted to ACM TACO.</li>
   <li>2026/01: FaaScale accepted to MLSys'26.</li>
-  <li>2025/12: Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</li>
-  <li>2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!</li>
 </ul>
 
 <div class="news-more">
@@ -60,6 +60,8 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
   <label for="news-more-toggle" class="news-more__label news-more__label--more">More...</label>
   <div class="news-more__extra">
     <ul class="news-list">
+      <li>2025/12: Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</li>
+      <li>2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!</li>
       <li>2025/11: Give a Grand Challenges talk on AI Cloud at <a href="https://www.faisys.net/col.jsp?id=115">FAISys'25</a>.</li>
       <li>2025/09: AdaSpec accepted to SoCC'25.</li>
       <li>2025/08: GRouter accepted to EuroSys'26.</li>
