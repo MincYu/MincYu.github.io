@@ -10,8 +10,11 @@ author_profile: true
 ### Recent Preprints
 
 
+- <u>Yihao Zheng</u>, <u>Jingzhe Jiang</u>, Dejiang Zhu, <u>Zhiyuan Tan</u>, Yang Tian, Tao Wang, Minchen Yu, "Semantics, Workflows, and Infrastructure: Understanding Agent Serving at Production Scale," in arXiv preprint arXiv:2609.34432.
+- <u>Zhiyuan Tan*</u>, Dejiang Zhu\*, <u>Jingzhe Jiang</u>, <u>Yihao Zheng</u>, Yang Tian, Tao Wang, Minchen Yu, "PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale," in arXiv preprint arXiv:2609.33224.
+- <u>Zhexiang Zhang</u>, Minchen Yu, Yifan Sun, Xu Bai, Xingliang Yuan, Adel N. Toosi, "PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving," in arXiv preprint arXiv:2609.20723.
 - Minchen Yu, "Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model," vision paper in arXiv preprint arXiv:2608.29581.
-- <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, Xiangyu Wang, <u>Yumiao Zhao</u>, <u>Jingzhe Jiang</u>, Qizhen Weng, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
+- <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, <u>Yumiao Zhao</u>, <u>Jiayu Xiao</u>, <u>Qianjing Yang</u>, Xiangyu Wang, <u>Jingzhe Jiang</u>, Qizhen Weng, Ruichuan Chen, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
 <!-- - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929. -->
 <!-- - Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi, "SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding," in arXiv preprint arXiv:2503.05096. -->
 <!-- - Minchen Yu*, Rui Yang\*, <u>Chaobo Jia</u>, Zhaoyuan Su, Sheng Yao, Tingfeng Lan, Yuchen Yang, Yue Cheng, Wei Wang, Ao Wang, Ruichuan Chen, "$\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference," in arXiv preprint arXiv:2502.09922. -->
