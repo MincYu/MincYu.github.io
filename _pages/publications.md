@@ -27,6 +27,8 @@ author_profile: true
 
 <div class="pub-year-divider pub-year-divider--first"><span>2026</span></div>
 
+- <u>Yihao Zheng</u>, <u>Zhiyuan Tan</u>, <u>Yicheng Huo</u>, <u>Bohui Wu</u>, <u>Yiyun Zheng</u>, Minchen Yu, "DuetScale: Scaling Disaggregated LLM Serving with Joint Parallelism and Startup Optimization," in the Symposium on Rigorous LLM Systems (***RigoLLM’26, ATC’26 Workshop***), Hong Kong, November 2026.
+- <u>Yaohua Xi</u>, Minchen Yu, "SemServe: A Systematic View of Exploiting Application Semantics in Agentic Serving," in the Symposium on Rigorous LLM Systems (***RigoLLM’26, ATC’26 Workshop***), Hong Kong, November 2026.
 - <u>Yiyun Zheng</u>, Lingyun Yang, Yinghao Yu, Guodong Yang, Liping Zhang, Minchen Yu, "Model-as-a-Service in the Wild: Characterizing Production LLM Inference Clusters at Scale," in 2026 ACM SIGOPS Annual Technical Conference (***ATC’26***), Hong Kong, November 2026.
 - <u>Kaiyu Huang</u>, Xingyu Wang, Mingze Kong, Zhubo Shi, Yuqian Hou, Hong Xu, Zhongxiang Dai, Minchen Yu, Qingjiang Shi, "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling," in the 43rd International Conference on Machine Learning (***ICML'26***), Seoul, South Korea, July 2026.
 - <u>Wenhao Zou</u>, Zhijie Cai, Minchen Yu, Zongshuai Zhang, Guangxu Zhu, "Think in Cloud, Look at Edges: Semantic-Driven Query Decomposition for Efficient Video Reasoning," in the 43rd International Conference on Machine Learning (***ICML'26*** Spotlight), Seoul, South Korea, July 2026.
