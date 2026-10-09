@@ -43,7 +43,6 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 - IEEE ISPA 2026 (Program Vice-Chair)
 - ChinaSys 2026
 - FAISys 2026
-- CCF HPC China 2026
 
 
 ### News
