@@ -10,6 +10,8 @@ author_profile: true
 ### Recent Preprints
 
 
+- <u>Jiayu Xiao</u>, <u>Ye Wang</u>, Zhi Zhang, Jiarui Guo, Kan Liu, Tao Lan, Minchen Yu, "When Shards Fly: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL," in arXiv preprint arXiv:2611.00646.
+- <u>Kaiyu Huang*</u>, <u>Yiting Li*</u>, <u>Angyang Gu*</u>, Pinjia He, Minchen Yu, Qingjiang Shi, "AM-Bench: Understanding Agents under Task Underspecification across Models and Harnesses," in arXiv preprint arXiv:2610.18090.
 - <u>Yihao Zheng</u>, <u>Jingzhe Jiang</u>, Dejiang Zhu, <u>Zhiyuan Tan</u>, Yang Tian, Tao Wang, Minchen Yu, "Semantics, Workflows, and Infrastructure: Understanding Agent Serving at Production Scale," in arXiv preprint arXiv:2609.34432.
 - <u>Zhiyuan Tan*</u>, Dejiang Zhu\*, <u>Jingzhe Jiang</u>, <u>Yihao Zheng</u>, Yang Tian, Tao Wang, Minchen Yu, "PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale," in arXiv preprint arXiv:2609.33224.
 - Minchen Yu, "Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model," vision paper in arXiv preprint arXiv:2608.29581.
