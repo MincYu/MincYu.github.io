@@ -12,7 +12,6 @@ author_profile: true
 
 - <u>Yihao Zheng</u>, <u>Jingzhe Jiang</u>, Dejiang Zhu, <u>Zhiyuan Tan</u>, Yang Tian, Tao Wang, Minchen Yu, "Semantics, Workflows, and Infrastructure: Understanding Agent Serving at Production Scale," in arXiv preprint arXiv:2609.34432.
 - <u>Zhiyuan Tan*</u>, Dejiang Zhu\*, <u>Jingzhe Jiang</u>, <u>Yihao Zheng</u>, Yang Tian, Tao Wang, Minchen Yu, "PackServe: SLO-Aware Request Scheduling for Agentic LLM Serving at Scale," in arXiv preprint arXiv:2609.33224.
-- <u>Zhexiang Zhang</u>, Minchen Yu, Yifan Sun, Xu Bai, Xingliang Yuan, Adel N. Toosi, "PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving," in arXiv preprint arXiv:2609.20723.
 - Minchen Yu, "Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model," vision paper in arXiv preprint arXiv:2608.29581.
 - <u>Zhexiang Zhang*</u>, <u>Ye Wang*</u>, <u>Yumiao Zhao</u>, <u>Jiayu Xiao</u>, <u>Qianjing Yang</u>, Xiangyu Wang, <u>Jingzhe Jiang</u>, Qizhen Weng, Ruichuan Chen, Shaohuai Shi, Yin Chen, Minchen Yu, "Janus: Disaggregating Attention and Experts for Scalable MoE Inference," in arXiv preprint arXiv:2512.13525.
 <!-- - Minchen Yu, <u>Yinghao Ren</u>, <u>Jiamu Zhao</u>, <u>Jiaqi Li</u>, "Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics," in arXiv preprint arXiv:2507.11929. -->
@@ -25,7 +24,11 @@ author_profile: true
 
 ### Refereed Papers
 
-<div class="pub-year-divider pub-year-divider--first"><span>2026</span></div>
+<div class="pub-year-divider pub-year-divider--first"><span>2027</span></div>
+
+- <u>Zhexiang Zhang</u>, Minchen Yu, Yifan Sun, Xu Bai, Xingliang Yuan, Adel N. Toosi, "PixelFlow: Token-Level Workload Management for SLO-Aware and Resource-Efficient Mixed-Resolution DiT Serving," in the 33rd IEEE International Symposium on High-Performance Computer Architecture (***HPCA’27***), Salt Lake City, UT, March 2027.
+
+<div class="pub-year-divider"><span>2026</span></div>
 
 - <u>Yihao Zheng</u>, <u>Zhiyuan Tan</u>, <u>Yicheng Huo</u>, <u>Bohui Wu</u>, <u>Yiyun Zheng</u>, Minchen Yu, "DuetScale: Scaling Disaggregated LLM Serving with Joint Parallelism and Startup Optimization," in the Symposium on Rigorous LLM Systems (***RigoLLM’26, ATC’26 Workshop***), Hong Kong, November 2026.
 - <u>Yaohua Xi</u>, Minchen Yu, "SemServe: A Systematic View of Exploiting Application Semantics in Agentic Serving," in the Symposium on Rigorous LLM Systems (***RigoLLM’26, ATC’26 Workshop***), Hong Kong, November 2026.
@@ -44,12 +47,9 @@ author_profile: true
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, Binhang Yuan, Wei Wang, "Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference," in USENIX Annual Technical Conference (***ATC’25***), Boston, MA, July 2025.
 - Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding, "Torpor: GPU-Enabled Serverless Computing for Low-Latency,  Resource-Efficient Inference," in USENIX Annual Technical Conference (***ATC’25***), Boston, MA, July 2025.[[code](https://github.com/FCSLab/torpor)]
 
-<div class="pub-year-divider"><span>2024</span></div>
+<div class="pub-year-divider"><span>2024 and Earlier</span></div>
 
 - Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, "Pheromone: Restructuring Serverless Computing with Data-Centric Function Orchestration," in IEEE/ACM Transactions on Networking (***TON***), 2024.
-
-<div class="pub-year-divider"><span>2023 and Earlier</span></div>
-
 - Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, "Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing," in the Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (***NSDI’23***), Boston, MA, April 2023. [[code](https://github.com/MincYu/pheromone)]
 - Minchen Yu, Zhifeng Jiang, Hok Chun Ng, Wei Wang, Ruichuan Chen, and Bo Li, ''Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning,'' in the Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (***ICDCS'21***), Virtual Conference, July 2021. **(Best Paper Runner Up)**  [[code](https://github.com/MincYu/gillis-open-source)]
 - Huangshi Tian, Minchen Yu, and Wei Wang, ''CrystalPerf: Learning to Characterize the Performance of Dataflow Computation through Code Analysis,'' in the Proceedings of USENIX Annual Technical Conference (***ATC ’21***), Virtual Conference, July 2021.
