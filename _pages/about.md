@@ -14,12 +14,13 @@ I am an Assistant Professor in [School of Data Science, The Chinese University o
 
 ### Research Interests
 
-My research interests cover the broad area of cloud computing and distributed systems. Our recent research topics include:
+My research interests cover the broad area of cloud computing, distributed systems, and AI infrastructure. Our recent research topics include:
 <!-- I am particularly interested in identifying fundamental system challenges in these areas and investigating system solutions that are efficient and easy to use.  -->
 
-- Scalable AI and agentic systems
-- Large-scale GPU cluster management and scheduling
-- Next-generation serverless computing platforms
+- Scalable AI and Agent Infrastructure
+- Large-Scale GPU Cluster Management and Scheduling
+- Reliable Agent Systems
+- Agents for Self-Evolving Infrastructure
 
 
 ### Prospective Students and Current Openings
