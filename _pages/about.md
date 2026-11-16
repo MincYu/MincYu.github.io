@@ -49,12 +49,12 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 ### News
 
 <ul class="news-list">
-  <li>2026/11: Our paper "Model-as-a-Service in the Wild" received the <strong>Best Paper Award</strong> at ATC'26. Congratulations to Yiyun and all co-authors!</li>
-  <li>2026/11: PixelFlow accepted to HPCA'27.</li>
-  <li>2026/09: One paper accepted to ATC'26.</li>
-  <li>2026/04: UniScale and SCOPE accepted to ICML'26.</li>
-  <li>2026/02: One paper accepted to ACM TACO.</li>
-  <li>2026/01: FaaScale accepted to MLSys'26.</li>
+  <li><span class="news-entry"><span class="news-date">2026/11:</span><span class="news-text">Our paper "Model-as-a-Service in the Wild" received the <strong>Best Paper Award</strong> at ATC'26. Congratulations to Yiyun and all co-authors!</span></span></li>
+  <li><span class="news-entry"><span class="news-date">2026/11:</span><span class="news-text">PixelFlow accepted to HPCA'27.</span></span></li>
+  <li><span class="news-entry"><span class="news-date">2026/09:</span><span class="news-text">One paper accepted to ATC'26.</span></span></li>
+  <li><span class="news-entry"><span class="news-date">2026/04:</span><span class="news-text">UniScale and SCOPE accepted to ICML'26.</span></span></li>
+  <li><span class="news-entry"><span class="news-date">2026/02:</span><span class="news-text">One paper accepted to ACM TACO.</span></span></li>
+  <li><span class="news-entry"><span class="news-date">2026/01:</span><span class="news-text">FaaScale accepted to MLSys'26.</span></span></li>
 </ul>
 
 <div class="news-more">
@@ -62,17 +62,17 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
   <label for="news-more-toggle" class="news-more__label news-more__label--more">More...</label>
   <div class="news-more__extra">
     <ul class="news-list">
-      <li>2025/12: Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</li>
-      <li>2025/11: Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!</li>
-      <li>2025/11: Give a Grand Challenges talk on AI Cloud at <a href="https://www.faisys.net/col.jsp?id=115">FAISys'25</a>.</li>
-      <li>2025/09: AdaSpec accepted to SoCC'25.</li>
-      <li>2025/08: GRouter accepted to EuroSys'26.</li>
-      <li>2025/04: Torpor and Toppings accepted to ATC'25.</li>
-      <li>2024/10: One paper accepted to TON.</li>
-      <li>2024/09: Serve on the PC of <a href="https://icdcs2025.icdcs.org">ICDCS'25</a>. Please consider submitting.</li>
-      <li>2024/07: Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!</li>
-      <li>2024/04: Serve on the PC of <a href="https://www.usenix.org/conference/nsdi25">NSDI'25</a>. Please consider submitting.</li>
-      <li>2023/12: I joined CUHK-SZ as an Assistant Professor.</li>
+      <li><span class="news-entry"><span class="news-date">2025/12:</span><span class="news-text">Serve on PC of <a href="https://icdcs2026.icdcs.org">ICDCS'26</a> and <a href="https://ccgrid2026.cdms.westernsydney.edu.au/">CCGrid'26</a>.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2025/11:</span><span class="news-text">Awarded the CCF-Ant Research Fund. Thanks CCF and Ant!</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2025/11:</span><span class="news-text">Give a Grand Challenges talk on AI Cloud at <a href="https://www.faisys.net/col.jsp?id=115">FAISys'25</a>.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2025/09:</span><span class="news-text">AdaSpec accepted to SoCC'25.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2025/08:</span><span class="news-text">GRouter accepted to EuroSys'26.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2025/04:</span><span class="news-text">Torpor and Toppings accepted to ATC'25.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2024/10:</span><span class="news-text">One paper accepted to TON.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2024/09:</span><span class="news-text">Serve on the PC of <a href="https://icdcs2025.icdcs.org">ICDCS'25</a>. Please consider submitting.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2024/07:</span><span class="news-text">Awarded CCF-Huawei Populus Grove Fund. Thanks CCF and Huawei!</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2024/04:</span><span class="news-text">Serve on the PC of <a href="https://www.usenix.org/conference/nsdi25">NSDI'25</a>. Please consider submitting.</span></span></li>
+      <li><span class="news-entry"><span class="news-date">2023/12:</span><span class="news-text">I joined CUHK-SZ as an Assistant Professor.</span></span></li>
     </ul>
     <label for="news-more-toggle" class="news-more__label news-more__label--less">...Less</label>
   </div>

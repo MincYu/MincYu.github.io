@@ -37,6 +37,19 @@ body {
   padding-left: 1.6rem;
 }
 
+.news-entry {
+  display: inline-grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: 0.35em;
+  width: 100%;
+  vertical-align: top;
+}
+
+.news-date {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
 .news-more {
   margin-top: 0;
 }
