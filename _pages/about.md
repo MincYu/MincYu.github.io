@@ -49,6 +49,7 @@ I am looking for self-motivated graduate students and research assistants (RAs) 
 ### News
 
 <ul class="news-list">
+  <li>2026/11: Our paper "Model-as-a-Service in the Wild" received the <strong>Best Paper Award</strong> at ATC'26. Congratulations to Yiyun and all co-authors!</li>
   <li>2026/11: PixelFlow accepted to HPCA'27.</li>
   <li>2026/09: One paper accepted to ATC'26.</li>
   <li>2026/04: UniScale and SCOPE accepted to ICML'26.</li>
