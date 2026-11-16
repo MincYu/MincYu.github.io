@@ -40,7 +40,7 @@ body {
 .news-entry {
   display: inline-grid;
   grid-template-columns: max-content minmax(0, 1fr);
-  column-gap: 0.35em;
+  column-gap: 0.5em;
   width: 100%;
   vertical-align: top;
 }
